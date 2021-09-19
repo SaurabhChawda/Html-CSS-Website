@@ -151,7 +151,7 @@ body{
     max-width: 900px;
     padding:1rem;
     margin: auto;
-    text-align:center
+    text-align:center;
 
 
 }
@@ -164,7 +164,10 @@ body{
 }
 .footer .link{
     color: white;
-    padding:0.1rem 0.1rem
+    padding:0.1px 0.1px;
+    text-decoration: none;
+    font-weight: bolder;
+    
 }
 /*Blog page header*/
 
