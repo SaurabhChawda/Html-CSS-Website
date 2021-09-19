@@ -28,6 +28,7 @@ body{
     color: #fff;
     margin: 1rem auto;
     border-radius: 2rem;
+    text-decoration: none;
   }
 .links-secondary{
     max-width: 140px;
@@ -36,6 +37,7 @@ body{
     border-radius: 2rem;
     border: 1px solid var(--primary-color);
     color: var(--primary-color);
+    text-decoration: none;
 }
 .list-non-bullet{
     list-style : none;
