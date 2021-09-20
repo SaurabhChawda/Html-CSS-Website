@@ -149,14 +149,15 @@ body{
 .footer{
     background-color:var(--primary-color);
     max-width: 900px;
+    padding: 0.5rem 0.5rem;
     margin: auto;
-    text-align: center;
     border-top-right-radius:1rem;
     border-top-left-radius:1rem;
 
 }
 .footer .footer-header{
     color:white;
+    text-align: center;
     font-size: 20px;
 
 }
@@ -165,7 +166,10 @@ body{
     text-decoration: none;
     font-weight: bolder;
 }
-
+.footer .social-links{
+    padding-right: 2rem;
+    text-align: center;
+}
 /*Blog page header*/
 
 .header-heading{
