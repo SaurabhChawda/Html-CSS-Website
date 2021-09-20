@@ -82,7 +82,7 @@ body{
 }
 .header .header-img{
     width: 100%;
-    max-width: 00px;
+    max-width: 700px;
     height: auto;
 }
 .header .header-heading{
@@ -149,7 +149,6 @@ body{
 .footer{
     background-color:var(--primary-color);
     max-width: 900px;
-    padding:1rem;
     margin: auto;
     text-align: center;
     border-top-right-radius:1rem;
@@ -161,14 +160,12 @@ body{
     font-size: 20px;
 
 }
-.footer .footer-header .social-links{
-    color:white;
-}
 .footer .link{
     color: white;
     text-decoration: none;
     font-weight: bolder;
 }
+
 /*Blog page header*/
 
 .header-heading{
